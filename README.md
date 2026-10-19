@@ -247,5 +247,4 @@ ORDER BY FIELD(shift, 'Morning', 'Afternoon', 'Evening');
 ## 👨‍💻 Author
 
 **Anees Maqsood**
-
-Electronics and Communication Engineering Graduate | Aspiring Data Analyst
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
